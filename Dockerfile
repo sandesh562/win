@@ -1,3 +1,3 @@
-FROM mcr.microsoft.com/windows:10.0.19042.1766
+FROM windows:10.0.17763.1040
 
 COPY . .
