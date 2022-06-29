@@ -1,3 +1,3 @@
-FROM windows:10.0.17763.1040
+FROM mcr.microsoft.com/windows/nanoserver:1809
 
 COPY . .
